@@ -1,0 +1,124 @@
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Poppins',
+  sans-serif;
+  
+}
+
+  nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+   
+    height: 50px;
+    padding: 10px
+  }
+  
+  nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+  }
+
+  .top-links {
+    display: inline-block;
+    float: right;
+    margin: 10px
+    
+  }
+  
+  .top-links li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+  header {
+      float: left;
+      padding-top: 10px;
+      padding-bottom: 25px;
+      
+      width: 100%;
+      
+     background-image: url(images/city-scape.svg);
+    
+     background-size: cover;
+    
+
+      
+  }
+
+  .box {
+     float:left;
+     margin-left:5px;
+     
+    
+  }
+
+  .top-left {
+    padding: 10px;
+    float: left;
+    
+    
+  }
+
+  input {
+
+    padding: 10px;
+  }
+  button {
+     padding: 15px;
+     border-radius: 20px
+  }
+
+  #section1 {
+    width: 100%;
+     background-color: rgb(39, 53, 71);
+     float: left;
+     color: white;
+     padding: 50px;
+    
+  }
+
+  #section2 {
+
+    background-image: url(images/forklift.svg);
+
+    background-color: rgb(32, 101, 136);
+    float: left;
+    width: 100%;
+    padding: 50px;
+    height: 350px;
+    color: white
+
+  }
+
+    #section3 {
+
+    background-color: white;
+    
+    height: 350px;
+  
+  
+
+
+    }
+  
+
+    .bigblock {
+
+    text-align: center;
+    margin-top: 50px
+
+    }
+
+    .miniblock {
+
+      
+      width: 10%;
+     
+
+      padding: 15px;
+      margin-left: 75px;
+      
+      display: inline-block;
+    }
